@@ -1,0 +1,4 @@
+This is a program made to record and count votes for a student council election. It allows one representative from each of the six tutor groups that must also be recorded.
+A maximum of four candidates can be selected from each tutor group and their names will also be stored.
+It allows the students to input a unique voter number given by their teachers before voting as well as finding out whether a person has voted already or not.
+It will also show the statistics of the election as well as in the occurence of a tie, allowing the election to be held again
